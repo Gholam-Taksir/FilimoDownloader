@@ -300,6 +300,6 @@ Issue و Pull Request خوشامد است!
 
 <div align="center">
 
-ساخته‌شده با ❤️ توسط [Gholam-Taksir](https://github.com/Gholam-Taksir)
+ساخته‌شده با ❤️ توسط [QolamTaksir](https://github.com/QolamTaksir)
 
 </div>
