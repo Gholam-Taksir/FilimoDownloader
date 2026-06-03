@@ -172,5 +172,5 @@ Pull Request و Issue خوشامد است!
 ---
 
 <div align="center">
-ساخته‌شده با ❤️ توسط <a href="https://github.com/GholamTaksir">GholamTaksir</a>
+ساخته‌شده با ❤️ توسط <a href="https://github.com/Gholam-Taksir">Gholam-Taksir</a>
 </div>
